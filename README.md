@@ -80,6 +80,7 @@ The dataset contains retail sales transactions including:
 This project demonstrates the ability to convert raw business data into actionable insights through interactive dashboards. It highlights foundational skills required for Data Analyst and Business Analyst roles.
 
 ---
-<img width="952" height="509" alt="HR ANALYTICS DASHBOARD" src="https://github.com/user-attachments/assets/374bb710-54e5-42b1-9abc-97df86a9a498" />
+<img width="1070" height="521" alt="SALES DASHBOARD" src="https://github.com/user-attachments/assets/376ff6c5-862c-4d49-8676-0c657a29b36d" />
+
 
 
